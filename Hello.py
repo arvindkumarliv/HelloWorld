@@ -14,11 +14,6 @@ def get_traveler_location (traveler):
     traveler_destination_index = get_destination_index(traveler_destination)
     return traveler_destination_index
 
-def add_attraction (destination, attraction)
-    destination_index = get_destination_index(destination)
-    try:
         
-
-
 test_destination_index = get_traveler_location(test_traveler)
 print (attractions)
